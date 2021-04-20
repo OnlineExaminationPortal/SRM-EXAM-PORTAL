@@ -1,7 +1,7 @@
 # SRM_EXAM_PORTAL
 
 "OnlineExamPortal
-This is an open source Web Application to conduct Online ExaminationS by using
+This is an open source Web Application to conduct Online Examinations by using
 frontend : HTML,CSS,JavaScript
 backend : PHP,MYSQL.
 
