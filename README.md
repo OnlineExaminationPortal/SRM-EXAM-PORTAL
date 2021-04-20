@@ -14,7 +14,7 @@ Installation Steps:
 Open phpmyadmin
 Create Database named project.
 Import database project.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/SRM_EXAM_PORTAL"   
+4. Open Your browser put inside "http://localhost/SRM_EXAM_PORTAL"  
 5.Run and enjoy
 
 
