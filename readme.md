@@ -34,3 +34,22 @@ For the installation demo you can refer : "https://youtu.be/5g0ZurU47jY"
 **Thank you** 
 
 
+SAMPLE IMAGES: 
+1. Index Page
+![image](https://user-images.githubusercontent.com/70905787/115527508-bc2ce480-a2ae-11eb-93b0-fc990eb38d0f.png)
+
+2. Admin Login
+![image](https://user-images.githubusercontent.com/70905787/115527677-e7afcf00-a2ae-11eb-991c-5e1a426f2e88.png)
+
+3. Quiz
+![image](https://user-images.githubusercontent.com/70905787/115527864-175ed700-a2af-11eb-84ff-e6799d265a0e.png)
+
+4. Developers
+![image](https://user-images.githubusercontent.com/70905787/115528077-54c36480-a2af-11eb-8a38-8a522d0e122b.png)
+
+5. Feedback
+![image](https://user-images.githubusercontent.com/70905787/115528194-7290c980-a2af-11eb-8f1f-136039d484cb.png)
+
+
+
+
