@@ -31,6 +31,6 @@ For the installation demo you can refer : "https://youtu.be/5g0ZurU47jY"
  else for User Login : you need to sign up first and then sign in to the portal as per your email id and password
 11. Congratulations! you are good to go
 
-**Thank you ... ^_^ **
+**Thank you**
 
 
