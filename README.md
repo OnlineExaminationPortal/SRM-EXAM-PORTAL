@@ -1,6 +1,6 @@
 # SRM_EXAM_PORTAL
 This is an open source webApplication to conduct Online Examinations for our SRM university
-
+<div dir="ltr">
 Features:
 1.Student Management
 2.Course Management
