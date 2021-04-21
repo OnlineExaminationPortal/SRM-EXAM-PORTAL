@@ -1,7 +1,7 @@
 # SRM_EXAM_PORTAL
 This is an open source webApplication to conduct Online Examinations for our SRM university
 
-Features:
+**Features:**
 1. Student Management
 2. Course Management
 3. Exam and result Management
@@ -16,7 +16,7 @@ Features:
 
 For the installation demo you can refer : "https://youtu.be/5g0ZurU47jY"
 
-**Instructions for downloading the project:
+**Instructions for downloading the project:**
 
 1. Install XAMPP server on your system to be used as local server for project. (lets say you installed it in 'K:\xampp_folder' folder)
 2. Download the zip file and unzip on any of the drive
@@ -31,6 +31,6 @@ For the installation demo you can refer : "https://youtu.be/5g0ZurU47jY"
  else for User Login : you need to sign up first and then sign in to the portal as per your email id and password
 11. Congratulations! you are good to go
 
-**Thank you ... ^_^ 
+**Thank you ... ^_^ **
 
 
