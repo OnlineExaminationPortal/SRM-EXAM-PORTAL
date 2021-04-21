@@ -205,7 +205,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
     <a href= # style="color:#202020; font-family:'typo' ; font-size:18px" ">Soumyoneel Dey</a>
     <h4 style="font-family:'typo' ">sd7829@srmist.edu.in</h4>
     <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology,Kattankulatur, Chennai</b></h4> <br><br>
-    <a href= # style="color:#202020; font-family:'typo' ; font-size:18px" ">Nisarg Nilesh Doshi</a>
+    <a href= "https://github.com/Nisarg20" style="color:#202020; font-family:'typo' ; font-size:18px" ">Nisarg Nilesh Doshi</a>
     <h4 style="font-family:'typo' ">nd1894@srmist.edu.in</h4>
     <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology, Kattankulatur,Chennai</b></h4> <br><br>
     <a href=# style="color:#202020; font-family:'typo' ; font-size:18px" ">Tiyasha Samanta</a>
