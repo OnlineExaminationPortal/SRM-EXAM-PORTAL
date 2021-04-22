@@ -38,22 +38,22 @@ SAMPLE IMAGES:
 1. Index Page
 ![image](https://user-images.githubusercontent.com/70905787/115527508-bc2ce480-a2ae-11eb-93b0-fc990eb38d0f.png)
 
-2. Admin Login
+2. Admin Login:
 ![image](https://user-images.githubusercontent.com/70905787/115527677-e7afcf00-a2ae-11eb-991c-5e1a426f2e88.png)
 
-3. Quiz
+3. Quiz:
 ![image](https://user-images.githubusercontent.com/70905787/115527864-175ed700-a2af-11eb-84ff-e6799d265a0e.png)
 
-4. Developers
+4. Official Page:
 ![image](https://user-images.githubusercontent.com/70905787/115728974-9bde5200-a3a2-11eb-89a9-1fbdfb6763d3.png)
 
-5. Feedback
+5. Feedback:
 ![image](https://user-images.githubusercontent.com/70905787/115528194-7290c980-a2af-11eb-8f1f-136039d484cb.png)
 
-6. Calculator 
+6. Calculator: 
 ![image](https://user-images.githubusercontent.com/70905787/115728710-5883e380-a3a2-11eb-8cc5-ecdeed23d1a4.png)
 
-7. About Us 
+7. About Us :
 ![image](https://user-images.githubusercontent.com/70905787/115728878-8537fb00-a3a2-11eb-857d-be01f781fa48.png)
 
 
