@@ -12,7 +12,7 @@ $q=mysqli_query($con,"INSERT INTO feedback VALUES  ('$id' , '$name', '$email' , 
 header("location:$ref?q=Thank you for your valuable feedback");
 ?>
 <?php
-include_once 'dbConnection.php';
+
 
 
 
