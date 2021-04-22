@@ -19,7 +19,7 @@ $email = $_POST['email'];
 $subject = $_POST['subject'];
 $id=uniqid();
 $date=date("Y-m-d");
-$time=date("h:i:sa");
+
 
 
 
