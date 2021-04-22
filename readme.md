@@ -45,7 +45,8 @@ SAMPLE IMAGES:
 ![image](https://user-images.githubusercontent.com/70905787/115527864-175ed700-a2af-11eb-84ff-e6799d265a0e.png)
 
 4. Official Page:
-![image](https://user-images.githubusercontent.com/70905787/115728974-9bde5200-a3a2-11eb-89a9-1fbdfb6763d3.png)
+![WhatsApp Image 2021-04-22 at 20 53 10](https://user-images.githubusercontent.com/80853109/115741341-478c9f80-a3ad-11eb-80dd-9fea0d045960.jpeg)
+
 
 5. Feedback:
 ![image](https://user-images.githubusercontent.com/70905787/115528194-7290c980-a2af-11eb-8f1f-136039d484cb.png)
