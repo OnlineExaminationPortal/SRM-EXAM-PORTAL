@@ -16,7 +16,7 @@ include_once 'dbConnection.php';
 $ref=@$_GET['q'];
 $name = $_POST['name'];
 $email = $_POST['email'];
-$subject = $_POST['subject'];
+
 
 
 
