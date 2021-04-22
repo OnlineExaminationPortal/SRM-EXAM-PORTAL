@@ -45,10 +45,16 @@ SAMPLE IMAGES:
 ![image](https://user-images.githubusercontent.com/70905787/115527864-175ed700-a2af-11eb-84ff-e6799d265a0e.png)
 
 4. Developers
-![image](https://user-images.githubusercontent.com/70905787/115528077-54c36480-a2af-11eb-8a38-8a522d0e122b.png)
+![image](https://user-images.githubusercontent.com/70905787/115728974-9bde5200-a3a2-11eb-89a9-1fbdfb6763d3.png)
 
 5. Feedback
 ![image](https://user-images.githubusercontent.com/70905787/115528194-7290c980-a2af-11eb-8f1f-136039d484cb.png)
+
+6. Calculator 
+![image](https://user-images.githubusercontent.com/70905787/115728710-5883e380-a3a2-11eb-8cc5-ecdeed23d1a4.png)
+
+7. About Us 
+![image](https://user-images.githubusercontent.com/70905787/115728878-8537fb00-a3a2-11eb-857d-be01f781fa48.png)
 
 
 
