@@ -15,7 +15,7 @@ header("location:$ref?q=Thank you for your valuable feedback");
 include_once 'dbConnection.php';
 $ref=@$_GET['q'];
 $name = $_POST['name'];
-$email = $_POST['email'];
+
 
 
 
