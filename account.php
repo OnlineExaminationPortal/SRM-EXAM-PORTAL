@@ -113,28 +113,38 @@ $c=0;
 echo '</table></div></div>';
 
 }?>
-<!--<span id="countdown" class="timer"></span>
+<span id="countdown" class="timer"></span>
 <script>
-var seconds = 40;
-    function secondPassed() {
-    var minutes = Math.round((seconds - 30)/60);
-    var remainingSeconds = seconds % 60;
-    if (remainingSeconds < 10) {
-        remainingSeconds = "0" + remainingSeconds; 
-    }
-    document.getElementById('countdown').innerHTML = minutes + ":" +    remainingSeconds;
-    if (seconds == 0) {
-        clearInterval(countdownTimer);
-        document.getElementById('countdown').innerHTML = "Buzz Buzz";
-    } else {    
-        seconds--;
-    }
-    }
-var countdownTimer = setInterval('secondPassed()', 1000);
-</script>-->
+let data = <?php echo json_encode(...$data); ?>;
+let time = (data['time']);
+let intTime = parseInt(time);
+// console.log(intTime);  
 
-<!--home closed-->
+let seconds = intTime * 60; 
+function secondPassed() {
+  var minutes = Math.round((seconds - 30) / 60);
+  var remainingSeconds = seconds % 60;
+  if (remainingSeconds < 10) {
+    remainingSeconds = "0" + remainingSeconds;
+  }
+  document.getElementById("countdown").innerHTML =
+    minutes + ":" + remainingSeconds;
+  if (seconds == 0) {
+    clearInterval(countdownTimer);
+    document.getElementById("countdown").innerHTML = "BUZZ, BUZZ..... BUZZ, BUZZ..... BUZZ, BUZZ";
+    goBack();
+  } 
+  else {
+    seconds--;
+  }
+}
 
+let countdownTimer = setInterval("secondPassed()", 1000);
+function goBack() {
+  window.history.back();
+}
+
+</script>
 <!--quiz start-->
 <?php
 if(@$_GET['q']== 'quiz' && @$_GET['step']== 2) {
@@ -142,6 +152,12 @@ $eid=@$_GET['eid'];
 $sn=@$_GET['n'];
 $total=@$_GET['t'];
 $q=mysqli_query($con,"SELECT * FROM questions WHERE eid='$eid' AND sn='$sn' " );
+$f=mysqli_query($con, "SELECT time from quiz where eid='$eid' ");
+$data = array();
+while($row = mysqli_fetch_assoc($f)) {
+  $data[] = $row;
+}
+// echo json_encode (...$data);
 echo '<div class="panel" style="margin:5%">';
 while($row=mysqli_fetch_array($q) )
 {
