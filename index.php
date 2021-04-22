@@ -178,7 +178,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-3 box">
-<a href="#" data-toggle="modal" data-target="#developers">Developers</a>
+<a href="#" data-toggle="modal" data-target="#developers">Official Page</a>
 </div>
 <div class="col-md-3 box">
 <a href="feedback.php" target="_blank">Feedback</a></div></div>
@@ -195,25 +195,13 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/img1.jpeg" width=100 height=100  class="img-rounded"><br><br><br>
-     <img src="image/img 2.jpeg" width=100 height=100  class="img-rounded"><br><br><br>
-     <img src="image/img 3.jpeg" width=100 height=100  class="img-rounded"><br><br><br>
-     <img src="image/img4.jpeg" width=100 height=100  class="img-rounded"><br><br><br>
+		 <img src="image/img7.jpeg" width=100 height=100  class="img-rounded"><br><br><br>
+     
 		 </div>
 		 <div class="row">
-		<a href= # style="color:#202020; font-family:'typo' ; font-size:18px" ">Soumya Mohanty</a>
-    <h4 style="font-family:'typo' ">sm6839@srmist.edu.in</h4>
-    <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology,Kattankulatur, Chennai</b></h4><br><br>
-    <a href= # style="color:#202020; font-family:'typo' ; font-size:18px" ">Soumyoneel Dey</a>
-    <h4 style="font-family:'typo' ">sd7829@srmist.edu.in</h4>
-    <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology,Kattankulatur, Chennai</b></h4> <br><br>
-    <a href= # style="color:#202020; font-family:'typo' ; font-size:18px" ">Nisarg Nilesh Doshi</a>
-    <h4 style="font-family:'typo' ">nd1894@srmist.edu.in</h4>
-    <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology, Kattankulatur,Chennai</b></h4> <br><br>
-    <a href=# style="color:#202020; font-family:'typo' ; font-size:18px" ">Tiyasha Samanta</a>
-    <h4 style="font-family:'typo' ">ts4475@srmist.edu.in</h4>
-    <h4 style=div"font-family:'typo' "> <b>SRM Insitute of Science & Technology,Kattankulatur, Chennai</b></h4> 
-  </div></div>
+		<a href= "https://www.srmist.edu.in"style="color:#202020; font-family:'typo' ; font-size:18px" ">SRM UNIVERSITY </a>
+                <h4 style=div"font-family:'typo' "> <b> Insitute of Science & Technology,Kattankulatur, Chennai</b></h4><br><br>
+    </div></div>
 		</p>
       </div>
     
